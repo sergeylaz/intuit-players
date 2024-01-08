@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: players
+server:
+  port: 8090
+  error:
+    include-message: always
+
+file-name: player.csv
+
